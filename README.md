@@ -1,24 +1,10 @@
-# README
+# Valley of Dinosaurs
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## About
+This application was made in the first week of the Codaisseur traineeship program as a intro to Ruby on Rails. 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## What I've learned
+1. Installing Rails, creating a new application and connect it to a database
+2. The general layout of a Rails application, as well as the principles of MVC design
+3. Model Relationship: One to many
+4. CRUD operations
