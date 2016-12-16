@@ -1,7 +1,7 @@
 # Valley of Dinosaurs
 
 ## About
-This application was made in the first week of the Codaisseur traineeship program as a intro to Ruby on Rails. 
+This application was made in the first week of the [Codaisseur](https://www.codaisseur.com/) traineeship program as a intro to Ruby on Rails. 
 
 ## What I've learned from this project
 1. Installing Rails, creating a new application and connect it to a database
